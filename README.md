@@ -1,3 +1,3 @@
 testRepo
 new file
-:) 1
+some more text
